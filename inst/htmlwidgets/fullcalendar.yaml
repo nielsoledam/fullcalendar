@@ -16,6 +16,13 @@ dependencies:
       - fullcalendar.min.js
     stylesheet:
       - fullcalendar.min.css
+  - name: scheduler
+    version: 1.7.1
+    src: htmlwidgets/lib/scheduler-1.7.1/
+    script:
+      - scheduler.min.js
+    stylesheet:
+      - scheduler.min.css
 
 
 
