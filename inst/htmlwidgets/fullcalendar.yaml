@@ -23,7 +23,3 @@ dependencies:
       - scheduler.min.js
     stylesheet:
       - scheduler.min.css
-
-
-
-
